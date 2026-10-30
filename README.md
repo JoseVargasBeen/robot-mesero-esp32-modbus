@@ -8,6 +8,12 @@ equipo más de una planta industrial: la HMI ve en vivo la velocidad, la carga
 de la bandeja y la distancia al obstáculo más cercano, y puede cambiar la mesa
 de destino, la velocidad y las constantes del PID sin reprogramar el robot.
 
+> **In English** — Final project for Mechatronics Engineering: a line-following waiter robot
+> that stops at the requested table. An ESP32 runs the PID control loop on one core and Modbus
+> TCP plus the slow sensors on the other (FreeRTOS, mutex-protected shared data), and an HMI
+> monitors speed, tray load and obstacles and tunes the PID live. Includes ISA 5.1
+> instrumentation and encoder calibration.
+
 ## Videos
 
 - **[Entrega final, narrada por el profesor](https://drive.google.com/file/d/1d8lKRRzBIpUL3Kt_MFdxxeliUdlQR0Zp/view)**:

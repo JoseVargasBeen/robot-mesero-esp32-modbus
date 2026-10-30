@@ -10,7 +10,7 @@ de destino, la velocidad y las constantes del PID sin reprogramar el robot.
 
 ## Videos
 
-- **[Entrega final, narrada por el profesor](https://drive.google.com/drive/folders/1ECiBN1FWdKRjo8OoEIlobrgJi3NOIKQs)**:
+- **[Entrega final, narrada por el profesor](https://drive.google.com/file/d/1d8lKRRzBIpUL3Kt_MFdxxeliUdlQR0Zp/view)**:
   el profesor describe el robot funcionando junto con la HMI. Disculpen la
   música de fondo: es Diomedes Díaz.
 - **[Pruebas del PID y del conteo de mesas](https://drive.google.com/file/d/1Fri1YFBv56BYlUpE2OZAiU20e-KFlie6/view)**.

@@ -101,5 +101,6 @@ fija que va a usar el robot.
 ## Equipo
 
 - Daniel Cartagena
-- Andrés Segura
-- José Vargas
+- Andrés Felipe Segura Tinjacá
+- Brayan Esteban Santamaría
+- José David Vargas Vargas

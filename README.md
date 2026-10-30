@@ -8,8 +8,12 @@ equipo más de una planta industrial: la HMI ve en vivo la velocidad, la carga
 de la bandeja y la distancia al obstáculo más cercano, y puede cambiar la mesa
 de destino, la velocidad y las constantes del PID sin reprogramar el robot.
 
-**Video de las pruebas del PID y del conteo de mesas:**
-[pruebas PID.mp4](https://drive.google.com/file/d/1Fri1YFBv56BYlUpE2OZAiU20e-KFlie6/view)
+## Videos
+
+- **[Entrega final, narrada por el profesor](https://drive.google.com/drive/folders/1ECiBN1FWdKRjo8OoEIlobrgJi3NOIKQs)**:
+  el profesor describe el robot funcionando junto con la HMI. Disculpen la
+  música de fondo: es Diomedes Díaz.
+- **[Pruebas del PID y del conteo de mesas](https://drive.google.com/file/d/1Fri1YFBv56BYlUpE2OZAiU20e-KFlie6/view)**.
 
 ![Pantalla de operación de la HMI](images/hmi-operacion.png)
 
